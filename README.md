@@ -35,3 +35,14 @@ Big-O gösterimini yazınız.
 [11,16,21]          [8,12,22]
 
 *Big O Notation - n.(logn)
+
+
+#Binary Search Tree Projesi
+**[7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamalarını yazınız.
+Örnek: root x'dir. root'un sağından y bulunur. Solunda z bulunur vb.
+
+                  [7]
+           [4]          [8]   
+       [2]    [5]    [6]    [9]
+     [1]  [3]
+     [0]
